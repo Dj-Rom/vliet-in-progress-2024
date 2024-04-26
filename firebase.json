@@ -1,0 +1,9 @@
+{
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "hosting": {
+    "site": "j-van-vliet-transporte",
+    "public": "public"
+  }
+}
